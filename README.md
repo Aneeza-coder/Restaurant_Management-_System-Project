@@ -1,18 +1,25 @@
 ## Restaurant Management System
-This is a simple C++ Restaurant Management System that allows you to Add,show,Update,Delete,and Read Menu items from a CSV file.
+This is a simple C++ Restaurant Management System that allows you to Add,show,Update,Delete,and Read Menu items ,customer and  from a CSV file.
 
 ## To run this file use following steps
 
-1.Make sure you have main.cpp ,menu.cpp and menu.h in the same folder.
+1.Make sure you have main.cpp ,menu.cpp , menu.h , customer.h customer.cpp ,order.h,order.cpp ,bill.h and bill.cpp  in the same folder.
 
 2.Create a folder on your Desktop:
 
-3.Create a file named 'Menu.csv' inside that folder.
+3.Create a file named "Menu.csv", "customer.csv" ,"order.csv" and "Bill.csv"  inside that folder.
 
 4.Compile and run the program using a C++ compiler.
 
+## How to run
+1.Open project in Dev cpp/ Vs code.
+2.Compile all ".cpp" files 
+3.Run "main.cpp"
+4.Follow the on screen menu instructions.
+
 **Menu Options:**
 ## Option Action
+
 1 Add Item
 
 2 Show Menu(from memory that user give as input in add item option)
@@ -23,7 +30,19 @@ This is a simple C++ Restaurant Management System that allows you to Add,show,Up
 
 5 Read Menu (From CSV file)
 
-6 Exit
+6.Add Customer
+
+7.Show Customer
+
+8.Update Customer
+
+9.Delete Customer
+
+10.Place Order
+
+11.Generate Bill
+
+12.Exit
 
 ## Example usage
 
@@ -86,10 +105,47 @@ Enter choice: 5
 
 **Menu from CSV file shows on Screen!**
 
-## Enter choice: 6 To Exit program
+## Enter choice: 6
 
-Make sure your CSV file is in the Correct folder and properly formatted.
+Add customer: Ali
 
-Any changes (Add/Update/Delete) are saved automatically to "Menu.csv"
+## Enter choice : 7
+
+Show customer
+
+## Enter choice: 8
+
+Update customer
+
+# Enter choice: 9
+
+Delete ucstomer
+
+## Enter choice: 10
+
+Place order
+
+## Enter choice: 11
+
+Generate Bill
+
+## Enter choice: 12
+To exit Program
+
+Make sure your CSV files is in the Correct folder and properly formatted.
+
+Any changes (Add/Update/Delete) are saved automatically to "Menu.csv" "Customer.csv" , order.csv and "Bill.csv"
 
 This program uses Standard C++ libraries and works on Windows.
+
+## Author
+
+## Aneeza Asif
+**Roll no : 25021519-001)**
+
+## Momna abid 
+**Roll no: 25021519=047**
+
+## Fardous
+
+**Roll no: 25021519-074)**
