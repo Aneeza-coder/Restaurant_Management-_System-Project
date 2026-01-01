@@ -1,6 +1,6 @@
 ## Restaurant Management System
 
-This is a simple C++ Restaurant Management System that allows you to Add,show,Update,Delete,and Read Menu items ,customer and  from a CSV file.
+This is a simple C++ Restaurant Management System that allows you to Add,show,Update,Delete,and Read Menu items ,customers and orders .It also includes a **billing system** to calculate total bill for customer orders.
 
 ## To run this file use following steps
 
