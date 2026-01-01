@@ -27,7 +27,7 @@ This is a simple C++ Restaurant Management System that allows you to Add,show,Up
 
 ## Example usage
 
-**Add item**
+## Enter 1 to add item**
 
 Enter choice: 1
 
@@ -74,7 +74,7 @@ Enter price: 300
 
 4.Club Sandwich-300
 
-**Enter 4 to delete Item**
+## Enter 4 to delete Item
 
 Enter choice: 4
 
@@ -86,7 +86,7 @@ Enter choice: 5
 
 **Menu from CSV file shows on Screen!**
 
-**Enter choice: 6 To Exit program**
+## Enter choice: 6 To Exit program
 
 Make sure your CSV file is in the Correct folder and properly formatted.
 
