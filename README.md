@@ -1,4 +1,5 @@
 ## Restaurant Management System
+
 This is a simple C++ Restaurant Management System that allows you to Add,show,Update,Delete,and Read Menu items ,customer and  from a CSV file.
 
 ## To run this file use following steps
@@ -12,9 +13,13 @@ This is a simple C++ Restaurant Management System that allows you to Add,show,Up
 4.Compile and run the program using a C++ compiler.
 
 ## How to run
+
 1.Open project in Dev cpp/ Vs code.
+
 2.Compile all ".cpp" files 
+
 3.Run "main.cpp"
+
 4.Follow the on screen menu instructions.
 
 **Menu Options:**
@@ -85,6 +90,7 @@ Enter new name:Club Sandwich
 Enter price: 300
 
 ## Enter 2 to show menu
+
 1.Sandwich-200
 
 2.Pizza-500
