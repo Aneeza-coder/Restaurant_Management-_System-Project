@@ -51,7 +51,7 @@ This is a simple C++ Restaurant Management System that allows you to Add,show,Up
 
 ## Example usage
 
-## Enter 1 to add item**
+## Enter 1 to add item
 
 Enter choice: 1
 
@@ -123,7 +123,7 @@ Show customer
 
 Update customer
 
-# Enter choice: 9
+## Enter choice: 9
 
 Delete ucstomer
 
